@@ -1,1 +1,2 @@
-# marafon_vladilen
+# Плагин раскрывающихся карточек
+## html, css, , css animation, js

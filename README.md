@@ -1,2 +1,5 @@
 # Плагин раскрывающихся карточек
-## html, css, css animation, js
+## - html
+## - css
+## - css animation
+## - js
